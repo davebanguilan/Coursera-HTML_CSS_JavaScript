@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 175%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+section {
+  border: solid 1px;
+  background-color: yellow;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.title {
+    margin: 0px;
+    margin-bottom: 10px;
+}
